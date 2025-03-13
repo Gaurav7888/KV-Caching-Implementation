@@ -1,6 +1,6 @@
 # GPT-2 KV Cache Implementation Comparison
 
-[![GPT-2 KV Cache Comparison](static/results.png](https://github.com/Gaurav7888/KV-Caching-Implementation/blob/main/static/result.png)
+[![GPT-2 KV Cache Comparison](static/results.png)](https://github.com/Gaurav7888/KV-Caching-Implementation/blob/main/static/results.png)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IC7WCsbviSq1YEDYhoSF3zdf6lc_PGN7?usp=sharing)
 
 This repository contains code demonstrating and comparing two approaches to implementing text generation with GPT-2, focusing on the use of Key-Value (KV) caching for performance optimization.
