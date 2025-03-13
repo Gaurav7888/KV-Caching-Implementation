@@ -1,6 +1,3 @@
-# KV-Caching-Implementation
-Simple Implementation of KV-Caching 
-
 # GPT-2 KV Cache Implementation Comparison
 
 This repository contains code demonstrating and comparing two approaches to implementing text generation with GPT-2, focusing on the use of Key-Value (KV) caching for performance optimization.
